@@ -1,4 +1,4 @@
-# [ My First Blog ]({% post_url 2019-01-18-secondpost %})
+# [ My Second Blog ]({% post_url 2019-01-18-secondpost %})
 
 This week I installed the required stuff to run my node.js program. I am using mac operating system to make this mini project. I made the following setups:
 
