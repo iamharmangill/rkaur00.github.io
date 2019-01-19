@@ -9,7 +9,9 @@ Idea of my first Project: As a beginner I have to do a lot of setups to even run
 Tasks to do/deliverables: 
 1. My first work is to have basic knowledge of Node.js and have all the setups done on my machine.
 2. Then I would run my first Node.js code and research more to make my work done.
-3. Then I will create the prototype of my project and work on them accordingly.
+3. Then I will create the prototype of my project and work on them accordingly. 
+- For my project prototype, I thought of taking the concept of a coffee shop where user will ask for particular coffee and accordingly the bill would be generated automatically.
+- I would use the form for taking the input of user and by clicking on submit button, the price will be generated automatically.
 
 
 References:
