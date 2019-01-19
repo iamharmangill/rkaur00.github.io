@@ -9,3 +9,6 @@ This week I installed the required stuff to run my node.js program. I am using m
 5.	I am using express framework of node.js, Type npm install express –save in terminal to install express in your system and I used the guidelines from [https://expressjs.com/en/starter/installing.html](https://expressjs.com/en/starter/installing.html)
 6.	Then I made my first ‘Hello World!’ program and run it.
 7.	After that I started working on my project which is basically a bill calculator for coffee shop.
+
+References:
+[https://www.youtube.com/watch?v=gnsO8-xJ8rs](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
