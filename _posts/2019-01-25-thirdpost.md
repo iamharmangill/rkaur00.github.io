@@ -1,5 +1,6 @@
 # [ My Third Blog ]({% post_url 2019-01-25-thirdpost %})
 This week I worked on making my project dynamic.
+1. I create a form using bootstrap
 For next week I would work on adding the validation code to my project and start writing my tutorial.
 
 References:
