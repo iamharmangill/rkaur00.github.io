@@ -9,7 +9,7 @@ Code for error validation is:
 
 **check('name').isLength({ min: 3 })** // It will ensure customer name is not less than three characters.
 
-**check('email').isEmail()** //It will check whether user has entered valid email address
+**check('email').isEmail()** // It will check whether user has entered valid email address
 
 
 References: [https://express-validator.github.io/docs/](https://express-validator.github.io/docs/)
