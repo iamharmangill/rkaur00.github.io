@@ -12,5 +12,7 @@ Code for error validation is:
 
 **check('email').isEmail()** // It will check whether user has entered valid email address
 
+For next week, I have started working with my tutorial
+
 
 References: [https://express-validator.github.io/docs/](https://express-validator.github.io/docs/)
