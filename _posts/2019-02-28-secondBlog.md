@@ -20,8 +20,8 @@ This week I learned about creating new components and routing.
 
 - When you run it using **ng serve** and open brower and type **http://localhost:4200/**, you would get the following page:
 ![Image](/Images/home.png)
-- when you click on Aboutus, you would get:
-![Image](/Images/About.png)
+- when you click on About, you would get:
+![Image](/Images/aboutus.png)
 - When you click on Contact page, the following page would appear:
 ![Image](/Images/contact.png)
 
