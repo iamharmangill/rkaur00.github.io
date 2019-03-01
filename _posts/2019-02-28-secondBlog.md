@@ -3,7 +3,7 @@ This week I learned about creating new components and routing.
 - In angular, the only default component we get is "app-component". In any project we need different pages, for instance, we need Homepage, aboutus and contactpage and to make them, we need to create new components.
 - To create new components, open the terminal of your visual studio code and type **ng generate component componentname**
 - This will generate the component with the name you defined and import that component automatically in your **app-module.ts file**
--upto now I have generated four components: home,about,contact and nav.
+- upto now I have generated four components: home,about,contact and nav.
 - Home,About and Contact page just hold the static data and nav component has link to all these pages. To set that all things the code I am using is:
 
 ```
@@ -20,5 +20,10 @@ This week I learned about creating new components and routing.
 
 - When you run it using **ng serve** and open brower and type **http://localhost:4200/**, you would get the following page:
 ![Image](/Images/home.png)
+- when you click on Aboutus, you would get:
+![Image](/Images/About.png)
+- When you click on Contact page, the following page would appear:
+![Image](/Images/contact.png)
+
 
 
