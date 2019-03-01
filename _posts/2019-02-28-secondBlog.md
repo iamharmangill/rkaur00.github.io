@@ -18,4 +18,7 @@ This week I learned about creating new components and routing.
 
 **{path:'about',component:AboutComponent}**
 
+- When you run it using **ng serve** and open brower and type **http://localhost:4200/** and you would get the following page:
+![Image](/Images/home.png)
+
 
