@@ -25,5 +25,9 @@ This week I learned about creating new components and routing.
 - When you click on Contact page, the following page would appear:
 ![Image](/Images/contact.png)
 
+**References**
+- [https://angular.io/docs](https://angular.io/docs)
+- [https://www.youtube.com/watch?v=5wtnKulcquA](https://www.youtube.com/watch?v=5wtnKulcquA)
+
 
 
