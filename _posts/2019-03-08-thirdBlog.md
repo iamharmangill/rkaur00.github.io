@@ -1,4 +1,4 @@
-# [ My Third for Second Project ]({% post_url 2019-03-08-thirdBlog %})
+# [ My Third Blog for Second Project ]({% post_url 2019-03-08-thirdBlog %})
 This week I learned about drag and drop property of Angular.
 - First, I made a list. Then, I add some todo posts in it.
 - After that I made use of drag and drop property to reorder the posts in that list.
