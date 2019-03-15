@@ -3,3 +3,5 @@
 - I worked on learning the validations on form and implement them successfully.
 - I also watched some tutorials for database connection.
 - For next week, I will probably make database connection and start storing my todolists on that.
+**References:**
+- For contact form I am following this tutorial:[https://www.youtube.com/watch?v=5wtnKulcquA](https://www.youtube.com/watch?v=5wtnKulcquA)
