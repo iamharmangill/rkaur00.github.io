@@ -15,3 +15,7 @@
 ![Image](/Images/image15.png)
 
 - Once I drag that list to the done list, It will get automatically deleted from **mytodoList** collection in firestore and get added to **doneList** collection in firestore.
+
+![Image](/Images/image17.png)
+
+![Image](/Images/image16.png)
