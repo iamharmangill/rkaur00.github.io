@@ -4,6 +4,9 @@
 
 - I made the project in firestore with name **todoList**
 - I made two collections in firestore out of which one collection is to store the todo data and the other collection is to store the done List data.
-- To connect my angular framework with firebase, I use CLI command: **npm i \-\-s firebase @angular/fire**
+
+![Image](/Images/image13.png)
+
+- To connect my angular framework with firebase, I use CLI command: **npm i \-\-s firebase @angular/fire** and add the environment variables in my project. To add this go to **environments/environment.ts** file.
 - Anything I write in the input field will get stored in todolist collection.
 - Once I drag that list to the done list, It will get automatically deleted from **mytodoList** collection in firestore and get added to **doneList** collection in firestore.
