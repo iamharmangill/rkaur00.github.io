@@ -7,6 +7,11 @@
 
 ![Image](/Images/image13.png)
 
-- To connect my angular framework with firebase, I use CLI command: **npm i \-\-s firebase @angular/fire** and add the environment variables in my project. To add this go to **environments/environment.ts** file.
-- Anything I write in the input field will get stored in todolist collection.
+- To connect my angular framework with firebase, I use CLI command: **npm i \-\-s firebase @angular/fire** and add the environment variables in my front-end part in **environments/environment.ts** file.
+- Anything I write in the input field will show in Todo part and also get stored in **mytodoList** collection in firestore.
+
+![Image](/Images/image14.png)
+
+![Image](/Images/image15.png)
+
 - Once I drag that list to the done list, It will get automatically deleted from **mytodoList** collection in firestore and get added to **doneList** collection in firestore.
