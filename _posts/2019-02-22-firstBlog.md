@@ -5,7 +5,8 @@ This week I have started learning Angular and install the few packages required 
 To run a basic Angular program, you need:
 
 **NPM**: It is Node Package Manager. It is required to install angular cli. When we install Node.js in our system, it gets downloaded automatically.
- To download angular cli using npm, open your terminal and type:
+ 
+ **Angular CLI** To download angular cli using npm, open your terminal and type:
   
   **npm install -g @angular/cli**
   
